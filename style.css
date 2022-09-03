@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.list-none{
+    list-style: none;
+}
+.position-absolute{
+    position: absolute;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+.width300{
+    width:300px;
+}
+.right0{
+    right: 0;
+}
+.margin0{
+    margin: 0;
+}
